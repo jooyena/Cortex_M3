@@ -1,4 +1,4 @@
-SET PATH=C:\Keil_v5\ARM\ARMCC\Bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-12\bin;C:\Program Files\dotnet\;"C:\Users\ggb05\AppData\Local\Android\Sdk\tools;C:\Users\ggb05\AppData\Local\Android\Sdk\platform-tools;";C:\Program Files\Git\cmd;C:\Users\ggb05\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\
+SET PATH=C:\Keil_v5\ARM\ARMCC\Bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\MySQL\MySQL Server 8.0\bin
 SET CPU_TYPE=LPC1768
 SET CPU_VENDOR=NXP (founded by Philips)
 SET UV2_TARGET=MCB1700

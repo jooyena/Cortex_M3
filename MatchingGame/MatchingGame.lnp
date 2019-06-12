@@ -14,6 +14,6 @@
 ".\lpc17xx_exti.o"
 C:\Keil_v5\ARM\RV31\LIB\RTX_CM3.LIB
 --strict --scatter ".\MatchingGame.sct"
---summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
 --list ".\Lst\MatchingGame.map" -o .\MatchingGame.axf
