@@ -1,0 +1,127 @@
+Dependencies for Project 'MatchingGame', Target 'MCB1700': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x5209992A)(--cpu Cortex-M3 --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP--pd "__UVISION_VERSION SETA 526"--list .\lst\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (.\system_LPC17xx.c)(0x53F444A8)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\system_lpc17xx.o --depend .\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (system_LPC17xx.h)(0x4FBF201A)
+F (.\RTX_Conf_CM.c)(0x53F44406)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\rtx_conf_cm.o --depend .\rtx_conf_cm.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5D00AC25)
+I (C:\Keil_v5\ARM\RV31\INC\RTX_lib.c)(0x559CD268)
+F (.\MatchingGame.c)(0x5D00CC43)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\matchinggame.o --depend .\matchinggame.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5D00AC25)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (C:\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.H)(0x559CD3A2)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x57034E02)
+I (GLCD.h)(0x540575E6)
+I (Keypad.h)(0x53F6DFD2)
+I (LPC1768_fnd.h)(0x54D9A064)
+I (lpc17xx_gpio.h)(0x54D83E6C)
+I (LPC17xx.h)(0x4FBF201A)
+I (lpc_types.h)(0x4FBF201A)
+I (LPC1768_Huins.h)(0x54DB1DBE)
+I (lpc17xx_pinsel.h)(0x54D1B634)
+I (lpc17xx_exti.h)(0x54D1BA3C)
+I (lpc17xx_uart.h)(0x54DB17CC)
+I (lpc17xx_timer.h)(0x4FBF201A)
+I (LPC1768_utility.h)(0x54DC45E2)
+F (.\Abstract.txt)(0x5CF90F57)()
+F (.\GLCD.c)(0x54057676)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\glcd.o --depend .\glcd.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (C:\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.H)(0x559CD3A2)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x57034E02)
+I (GLCD.h)(0x540575E6)
+I (font.h)(0x4A027556)
+F (.\lpc17xx_libcfg_default.c)(0x54E1CC00)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\lpc17xx_libcfg_default.o --depend .\lpc17xx_libcfg_default.d)
+I (lpc17xx_libcfg_default.h)(0x5D00C769)
+I (lpc_types.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+F (.\lpc17xx_pinsel.c)(0x54D9F40E)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\lpc17xx_pinsel.o --depend .\lpc17xx_pinsel.d)
+I (lpc17xx_pinsel.h)(0x54D1B634)
+I (LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (system_LPC17xx.h)(0x4FBF201A)
+I (lpc_types.h)(0x4FBF201A)
+F (.\lpc17xx_clkpwr.c)(0x4FBF201A)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\lpc17xx_clkpwr.o --depend .\lpc17xx_clkpwr.d)
+I (lpc17xx_clkpwr.h)(0x4FBF201A)
+I (LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (system_LPC17xx.h)(0x4FBF201A)
+I (lpc_types.h)(0x4FBF201A)
+F (.\LPC1768_utility.c)(0x5CA59E2A)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\lpc1768_utility.o --depend .\lpc1768_utility.d)
+I (LPC1768_utility.h)(0x54DC45E2)
+I (lpc17xx_gpio.h)(0x54D83E6C)
+I (LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (system_LPC17xx.h)(0x4FBF201A)
+I (lpc_types.h)(0x4FBF201A)
+I (LPC1768_Huins.h)(0x54DB1DBE)
+I (lpc17xx_pinsel.h)(0x54D1B634)
+I (lpc17xx_exti.h)(0x54D1BA3C)
+I (lpc17xx_uart.h)(0x54DB17CC)
+F (.\LPC1768_fnd.c)(0x54D9CF0E)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\lpc1768_fnd.o --depend .\lpc1768_fnd.d)
+I (LPC1768_fnd.h)(0x54D9A064)
+I (lpc17xx_gpio.h)(0x54D83E6C)
+I (LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (system_LPC17xx.h)(0x4FBF201A)
+I (lpc_types.h)(0x4FBF201A)
+I (LPC1768_Huins.h)(0x54DB1DBE)
+I (lpc17xx_pinsel.h)(0x54D1B634)
+I (lpc17xx_exti.h)(0x54D1BA3C)
+I (lpc17xx_uart.h)(0x54DB17CC)
+F (.\lpc17xx_timer.c)(0x54D9B720)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\lpc17xx_timer.o --depend .\lpc17xx_timer.d)
+I (lpc17xx_timer.h)(0x4FBF201A)
+I (LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (system_LPC17xx.h)(0x4FBF201A)
+I (lpc_types.h)(0x4FBF201A)
+I (lpc17xx_clkpwr.h)(0x4FBF201A)
+I (lpc17xx_pinsel.h)(0x54D1B634)
+I (lpc17xx_libcfg_default.h)(0x5D00C769)
+F (.\lpc17xx_gpio.c)(0x5C9C6A32)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\lpc17xx_gpio.o --depend .\lpc17xx_gpio.d)
+I (lpc17xx_gpio.h)(0x54D83E6C)
+I (LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (system_LPC17xx.h)(0x4FBF201A)
+I (lpc_types.h)(0x4FBF201A)
+I (lpc17xx_libcfg_default.h)(0x5D00C769)
+F (.\lpc17xx_exti.c)(0x54D1BA3C)(--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\NXP-D__UVISION_VERSION="526"-o .\lpc17xx_exti.o --depend .\lpc17xx_exti.d)
+I (lpc17xx_exti.h)(0x54D1BA3C)
+I (LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (system_LPC17xx.h)(0x4FBF201A)
+I (lpc_types.h)(0x4FBF201A)
+I (lpc17xx_libcfg_default.h)(0x5D00C769)

@@ -1,0 +1,6 @@
+--c99 -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\Keil_v5\ARM\INC\NXP\LPC17xx -I C:\Huins_NXP_LPC1768_Library\Drivers\include
+-IC:\Keil_v5\ARM\RV31\INC
+-IC:\Keil_v5\ARM\CMSIS\Include
+-IC:\Keil_v5\ARM\INC\NXP
+-D__UVISION_VERSION="526"
+-o .\lpc17xx_pinsel.o --depend .\lpc17xx_pinsel.d "lpc17xx_pinsel.c"
