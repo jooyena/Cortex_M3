@@ -1,9 +1,0 @@
-.\lpc17xx_clkpwr.o: lpc17xx_clkpwr.c
-.\lpc17xx_clkpwr.o: lpc17xx_clkpwr.h
-.\lpc17xx_clkpwr.o: LPC17xx.h
-.\lpc17xx_clkpwr.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
-.\lpc17xx_clkpwr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\lpc17xx_clkpwr.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-.\lpc17xx_clkpwr.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
-.\lpc17xx_clkpwr.o: system_LPC17xx.h
-.\lpc17xx_clkpwr.o: lpc_types.h

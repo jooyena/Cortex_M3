@@ -1,6 +1,0 @@
---create .\Obj\MatchingGame.lib
-.\obj\startup_lpc17xx.o
-.\obj\system_lpc17xx.o
-.\obj\rtx_conf_cm.o
-.\obj\glcd.o
-.\obj\matchinggame.o

@@ -1,6 +1,0 @@
---cpu Cortex-M3 --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork 
--I C:\Keil_v5\ARM\RV31\INC
--I C:\Keil_v5\ARM\CMSIS\Include
--I C:\Keil_v5\ARM\Inc\NXP
---pd "__UVISION_VERSION SETA 513"
---list .\lst\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d "startup_LPC17xx.s"
